@@ -1,3 +1,3 @@
 # Emily Urdaneta
 
-![] (dvcs-exercise.png)
+![ ](dvcs-exercise.png)
